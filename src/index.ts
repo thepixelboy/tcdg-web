@@ -2,8 +2,10 @@ import { User } from './models/User';
 
 const user = new User({ name: 'new record', age: 0 });
 
-user.evenst.on('change', () => {
-  console.log('change!');
+console.log(user.get('name'));
+
+user.on('change', () => {
+  console.log('user was changed');
 });
 
-user.evenst.trigger('change');
+user.trigger('change');
