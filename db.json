@@ -2,13 +2,28 @@
   "users": [
     {
       "id": 1,
-      "name": "NEW NAME",
-      "age": 999
+      "name": "steve richardson",
+      "age": 47
     },
     {
-      "name": "new record",
-      "age": 0,
-      "id": 2
+      "id": 2,
+      "name": "monica duchessne",
+      "age": 29
+    },
+    {
+      "name": "john doe",
+      "age": 32,
+      "id": 3
+    },
+    {
+      "name": "jane doe",
+      "age": 32,
+      "id": 4
+    },
+    {
+      "name": "tim peterson",
+      "age": 53,
+      "id": 5
     }
   ]
 }
