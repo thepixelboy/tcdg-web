@@ -24,6 +24,11 @@
       "name": "tim peterson",
       "age": 53,
       "id": 5
+    },
+    {
+      "name": "Olivia Dunham",
+      "age": 40,
+      "id": 6
     }
   ]
 }
