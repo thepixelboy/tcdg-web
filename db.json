@@ -29,6 +29,16 @@
       "name": "Olivia Dunham",
       "age": 40,
       "id": 6
+    },
+    {
+      "name": "Fox Mulder",
+      "age": 37,
+      "id": 7
+    },
+    {
+      "name": "Dana Scully",
+      "age": 33,
+      "id": 8
     }
   ]
 }
